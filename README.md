@@ -1,2 +1,4 @@
-# SymptomChecker
-A streamlit app using machine learning which predicts diseases as per symptoms and gives a bit of remedy as well.
+# Project
+
+A streamlit app that uses a machine learning model to predict disease based on list of symptoms
+
